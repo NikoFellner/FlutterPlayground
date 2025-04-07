@@ -22,7 +22,7 @@ flash_chat
 navigation_demo
 🧭 Examples of routing, stack navigation, and drawers in Flutter.
 
-quizzler_flutter
+quizzler_flutter\n
 ❓ A simple true/false quiz app with state management.
 
 weather_app
